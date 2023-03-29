@@ -1,6 +1,6 @@
 
 
-## Olá eu sou a Ciromar Junior.
+## Olá eu sou o Ciromar Junior.
 
 
 - Estudando Javascript
