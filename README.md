@@ -3,14 +3,14 @@
 ## Olá eu sou o Ciromar Junior.
 
 
-- Estudando Javascript
+- Estudando Python
 
 
 
 
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href=""><i>Ciromar Junior</i></a> 😃️</h1>
-  <p align="center">Estou aprendendo desenvolvimento web, <a href=""><i> --- </i></a> aprendendo a aprender <a></a><span> 👉🏽️</span>
+  <p align="center">Estou realizando o investimento de estudar python, atualmente sou eletrotecnico e trabalho em um centro de geração, aonde temos diversos processos na area de pré p´s e tempo real <a href=""><i> --- </i></a> Automatização <a></a><span> 👉🏽️</span>
   
  
 
