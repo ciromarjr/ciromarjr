@@ -25,8 +25,8 @@ Atualmente, estou direcionando minha carreira para a **automação** e **anális
 
 <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔋 **Eletrotécnico** especializado em sistemas de geração de energia
-- 💻 Desenvolvendo habilidades em **Python** para automação industrial
+- 🔋 **Eletrotécnico** Operador e Analista em sistemas de geração de energia
+- 💻 Desenvolvendo habilidades em **Python** para automação de processos
 - 📊 Explorando ciência de dados para otimização de processos energéticos
 - 🔍 Combinando conhecimento técnico com soluções digitais inovadoras
 - 🌐 Interessado em IoT e sistemas de monitoramento em tempo real
