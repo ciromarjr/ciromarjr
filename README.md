@@ -75,7 +75,7 @@ Atualmente, estou direcionando minha carreira para a **automação** e **anális
 
 <br>
 
-> **Nota:** Substitua "projeto-exemplo" e "projeto-exemplo-2" pelos nomes dos seus repositórios reais quando tiver projetos para destacar.
+
 
 ## 🔮 Próximos Passos
 
