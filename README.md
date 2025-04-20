@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou Ciromar Junior, Eletrotécnico com experiência em um centro de geração de energia, onde trabalho com diversos processos nas áreas de pré-processamento, pós-processamento e sistemas em tempo real.
+Olá! Sou Ciromar Junior, Eletrotécnico com experiência em um centro de geração de energia, onde trabalho com diversos processos nas áreas de pré-operação, pós-operação e tempo real.
 
 Atualmente estou investindo no aprendizado de Python para aplicar em automação de processos industriais e análise de dados operacionais.
 
