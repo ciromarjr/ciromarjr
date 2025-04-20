@@ -52,8 +52,9 @@ Atualmente estou investindo no aprendizado de Python para aplicar em automação
 
 ## 📬 Entre em Contato
 
-- 📧 Email: [seu.email@exemplo.com]
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil]
+- 📧 Email: [ciromarjr2@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/ciromar-batista-817389104]
+  
 
 <div align="center">
   
