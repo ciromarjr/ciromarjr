@@ -1,60 +1,89 @@
-# Ciromar Junior
-
 <div align="center">
   
-  ![Banner de boas-vindas](https://capsule-render.vercel.app/api?type=waving&color=0:4B76E5,100:6A11CB&height=200&section=header&text=Ciromar%20Junior&fontSize=40&fontColor=fff&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Ciromar%20Junior&desc=Eletrotécnico%20|%20Python%20Developer&fontAlignY=35&descAlignY=60&descSize=20&fontSize=60&animation=fadeIn)
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ciromar-junior/)
-  [![GitHub followers](https://img.shields.io/github/followers/ciromarjr?label=Follow&style=social)](https://github.com/ciromarjr)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciromar-batista-817389104)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ciromarjr)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ciromarjr2@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/ciromarjr?style=for-the-badge&logo=github&color=236ad3)](https://github.com/ciromarjr?tab=followers)
   
 </div>
 
-## 👨‍💻 Sobre Mim
+<div align="center">
+  <h2>✨ Bem-vindo ao meu universo digital ✨</h2>
+</div>
 
-Olá! Sou Ciromar Junior, Eletrotécnico com experiência em um centro de geração de energia, onde trabalho com diversos processos nas áreas de pré-operação, pós-operação e tempo real.
+## 🧠 Sobre Mim
 
-Atualmente estou investindo no aprendizado de Python para aplicar em automação de processos industriais e análise de dados operacionais.
+Sou um **Eletrotécnico** apaixonado por tecnologia, atuando em um centro de geração de energia, onde trabalho com processos críticos de operação. Minha expertise abrange os fluxos de pré-operação, tempo real e pós-operação, garantindo a eficiência e segurança dos sistemas energéticos.
 
-## 🚀 Minha Jornada
+Atualmente, estou direcionando minha carreira para a **automação** e **análise de dados** com **Python**, buscando criar soluções inovadoras que conectem o mundo da engenharia elétrica com a potência da programação.
 
-- 🔭 Atualmente trabalho como **Eletrotécnico** em um centro de geração de energia
-- 🌱 Estou estudando **Python** com foco em automação de processo e analise de dados
-- 🔍 Busco aplicar conhecimentos de programação para otimizar processos do setor energético
-- 💡 Interessado em projetos que unam engenharia elétrica e desenvolvimento de software
+> "A automação aplicada a uma operação eficiente aumentará a eficiência. A automação aplicada a uma operação ineficiente aumentará a ineficiência." — Bill Gates
 
-## 📊 Estatísticas GitHub
+## 🚀 Minha Jornada Profissional
+
+<img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+- 🔋 **Eletrotécnico** especializado em sistemas de geração de energia
+- 💻 Desenvolvendo habilidades em **Python** para automação industrial
+- 📊 Explorando ciência de dados para otimização de processos energéticos
+- 🔍 Combinando conhecimento técnico com soluções digitais inovadoras
+- 🌐 Interessado em IoT e sistemas de monitoramento em tempo real
+- 📚 Aprendizado contínuo em tecnologias de automação e programação
+
+<br clear="right"/>
+
+## 💻 Tecnologias & Ferramentas
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+</div>
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ciromarjr&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciromarjr&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8&title_color=58A6FF"/>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ciromarjr&theme=nord&no-frame=true&margin-w=15&margin-h=15&column=7"/>
+</div>
+
+## 🌟 Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/ciromarjr">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ciromarjr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciromarjr&theme=dracula&hide_border=false&&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ciromarjr&repo=projeto-exemplo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  </a>
+  <a href="https://github.com/ciromarjr">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ciromarjr&repo=projeto-exemplo-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
   </a>
 </div>
 
-## 🛠️ Tecnologias e Ferramentas
+<br>
 
-<div align="center">
-  <!-- Python -->
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- Outras tecnologias que você conhece ou está aprendendo -->
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
+> **Nota:** Substitua "projeto-exemplo" e "projeto-exemplo-2" pelos nomes dos seus repositórios reais quando tiver projetos para destacar.
 
-## 📚 Projetos em Destaque
+## 🔮 Próximos Passos
 
-- [Projeto 1] - Breve descrição do projeto
-- [Projeto 2] - Breve descrição do projeto
-- [Projeto 3] - Breve descrição do projeto
-
-## 📬 Entre em Contato
-
-- 📧 Email: [ciromarjr2@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/ciromar-batista-817389104]
-  
+- 📊 Aprofundar conhecimentos em análise de dados com Python
+- 🤖 Desenvolver projetos de automação para o setor energético
+- 🌐 Explorar integração de sistemas via IoT e monitoramento remoto
+- 🧪 Aplicar machine learning para previsão de demanda energética
+- 📱 Criar interfaces para visualização de dados operacionais
 
 <div align="center">
   
@@ -62,8 +91,10 @@ Atualmente estou investindo no aprendizado de Python para aplicar em automação
   
 </div>
 
+---
+
 <div align="center">
-  
-   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>"Transformando dados em conhecimento e conhecimento em ação."</p>
+  <p>📫 <b>ciromarjr2@gmail.com</b> | <a href="https://www.linkedin.com/in/ciromar-batista-817389104">LinkedIn</a></p>
+  <p>Feito com ❤️ e Python</p>
 </div>
