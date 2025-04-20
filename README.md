@@ -94,7 +94,9 @@ Atualmente, estou direcionando minha carreira para a **automação** e **anális
 ---
 
 <div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
   <p>"Transformando dados em conhecimento e conhecimento em ação."</p>
   <p>📫 <b>ciromarjr2@gmail.com</b> | <a href="https://www.linkedin.com/in/ciromar-batista-817389104">LinkedIn</a></p>
-  <p>Feito com ❤️ e Python</p>
+  
 </div>
