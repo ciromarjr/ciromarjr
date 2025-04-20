@@ -18,7 +18,7 @@ Atualmente estou investindo no aprendizado de Python para aplicar em automação
 ## 🚀 Minha Jornada
 
 - 🔭 Atualmente trabalho como **Eletrotécnico** em um centro de geração de energia
-- 🌱 Estou estudando **Python** com foco em automação industrial
+- 🌱 Estou estudando **Python** com foco em automação de processo e analise de dados
 - 🔍 Busco aplicar conhecimentos de programação para otimizar processos do setor energético
 - 💡 Interessado em projetos que unam engenharia elétrica e desenvolvimento de software
 
