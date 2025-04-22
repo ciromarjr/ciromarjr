@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre Mim
 
-Sou um **Eletrotécnico** apaixonado por tecnologia, atuando em um centro de geração de energia, onde trabalho com processos críticos de operação. Minha expertise abrange os fluxos de pré-operação, tempo real e pós-operação, garantindo a eficiência e segurança dos sistemas energéticos.
+Sou um **Eletrotécnico** apaixonado por tecnologia, atuando em um centro de geração de energia, onde trabalho com processos críticos de operação. Minha expertise abrange os fluxos de pré-operação, tempo real e pós-operação.
 
 Atualmente, estou direcionando minha carreira para a **automação** e **análise de dados** com **Python**, buscando criar soluções inovadoras que conectem o mundo da engenharia elétrica com a potência da programação.
 
